@@ -1,0 +1,17 @@
+[package]
+name = "color_picker"
+version = "0.1.0"
+authors = ["Paul Severe <pjo2110@columbia.edu>"]
+
+[dependencies]
+piston = "*"
+piston2d-graphics = "*"
+pistoncore-glutin_window = "*"
+piston2d-opengl_graphics = "*"
+palette = "*"
+piston2d-shapes = "0.15.0"
+rand = "0.3"
+find_folder = "*"
+piston_window = "*"
+clipboard = "*"
+dump = "*"
